@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603892913683",
+    "firebase_url": "https://loginfire-58b33.firebaseio.com",
+    "project_id": "loginfire-58b33",
+    "storage_bucket": "loginfire-58b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603892913683:android:3c32c06c1b864e4b1391e6",
+        "android_client_info": {
+          "package_name": "com.example.loginfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603892913683-ffqc244cvqc96fptefp9ds3f45d9f7l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginfire",
+            "certificate_hash": "ffa5aedbab56567c5f3961b95f42810c59af56c8"
+          }
+        },
+        {
+          "client_id": "603892913683-7pdbu8aqhiu0ik0pro9prjl5d91gjbev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGhMsDJeMbNeYfSLz3RriT6r3ffHcLcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603892913683-7pdbu8aqhiu0ik0pro9prjl5d91gjbev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
